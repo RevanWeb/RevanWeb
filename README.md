@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RevanWeb
 - 👀 I’m interested in Frontend web development.
-- 🌱 I’m currently learning React js.
+- 🌱 I’m currently Working on React js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on revansagare@gmail.com
 
